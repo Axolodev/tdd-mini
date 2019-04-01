@@ -1,0 +1,26 @@
+{
+  "name": "tdd-mini",
+  "version": "1.0.0",
+  "description": "Mini course on tdd",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RobRuizR/tdd-mini.git"
+  },
+  "keywords": [
+    "testing",
+    "jest"
+  ],
+  "author": "RobRuizR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobRuizR/tdd-mini/issues"
+  },
+  "homepage": "https://github.com/RobRuizR/tdd-mini#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
